@@ -27,7 +27,7 @@
 	<body>
 			<header>
 					<div class="container">
-						<h1>Stemulus Mafia</h1>
+						<h1>Stemulus</h1>
 					</div>
 			</header>
 

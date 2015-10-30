@@ -19,15 +19,19 @@
 				  crossorigin="anonymous">
 		</script>
 
-			<!--My custome stylesheet-------->
-			<script src="">
-
-			</script>
-
+			<!--My custom stylesheet-------->
+		<link href="css/style.css" rel="stylesheet">
 
 	</head>
 
 	<body>
+			<header>
+					<div>
+						<h1>Stemulus Mafia</h1>
+					</div>
+			</header>
 
 	</body>
+
+
 </html>
